@@ -1,7 +1,7 @@
 # Educa — Plataforma de simulados (MVP)
 
 Projeto final de **ECOT11A — Laboratório de Engenharia de Software I** (UNIFEI)  
-**Autor:** Renan Rodrigues Lopes · Matrícula 2024001802 · Prof. Edvard  
+**Autor:** Renan Rodrigues Lopes 
 **Repositório:** https://github.com/renanrlopes/software-engeneer
 
 ## Sobre o projeto
@@ -45,7 +45,7 @@ npm install
 npm run dev
 ```
 
-A API fica em `http://localhost:3000/api`. Na primeira execução, o `mongodb-memory-server` baixa o binário do MongoDB (precisa de internet e leva cerca de 1 minuto).
+A API fica em `http://localhost:3000/api`. Na primeira execução, o `mongodb-memory-server` baixa o binário do MongoDB 
 
 ### 3. Frontend — terminal 2
 
